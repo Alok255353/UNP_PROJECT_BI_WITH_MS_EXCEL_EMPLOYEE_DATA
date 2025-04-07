@@ -1,11 +1,5 @@
 # UNP_PROJECT_BI_WITH_MS_EXCEL_EMPLOYEE_DATA
 
-This project was developed as a group assignment under the guidance of UNP Education.
-We analyzed a raw dataset to extract insights into demographic and employment characteristics.
-The dataset underwent preprocessing, including data cleaning, column formatting, and categorical grouping.
-Data analysis and visualization were carried out using Microsoft Excel.
-Pivot tables and charts were used to summarize metrics such as occupation distribution, income types, asset ownership, and communication preferences.
-A dashboard was created to present the insights in a clear and interactive format.
-The project highlights skills in data cleaning, categorization, visualization, and reporting using Excel.
+This project, titled Employee Data Analysis & Dashboard, was developed as part of a group assignment under the guidance of UNP Education. Using a raw dataset named Employee Data, we performed a complete data analysis process within Microsoft Excel. The project involved data cleaning, column formatting, handling missing values, and grouping categorical data to prepare it for analysis. Key metrics such as occupation distribution, income types, asset ownership, and communication preferences were explored using Pivot Tables and Pivot Charts. An interactive dashboard was then designed to present the insights in a visually appealing and user-friendly format, incorporating slicers and filters for dynamic exploration. This project showcases practical skills in data preprocessing, Excel-based analysis, visualization, and dashboard creation, highlighting the ability to transform raw data into meaningful business insights.
 
 MS EXCEL PROJECT FILE: https://1drv.ms/x/s!Ajpx96Ie74Kcazh9VVHXpx1O4MM?e=IFlSJm
